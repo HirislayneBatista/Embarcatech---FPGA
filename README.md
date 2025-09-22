@@ -1,4 +1,4 @@
-- **Tarefa 1 – Fundamentos de FPGA): Cofre Bancário**
+- **Tarefa 1 – Fundamentos de FPGA: Cofre Bancário**
   
 Implementação de um circuito combinacional para ativar alarme de cofre em função de horário e
 autorização do gerente, que incluiu o desenvolvimento de tabela verdade, expressão booleana,
@@ -10,7 +10,7 @@ Implementação em Verilog e simulação no DigitalJS de um circuito que consist
 controlado por três sensores (porta, janela e presença). O funcionamento foi validado pela tabela
 verdade, simplificação com mapas de Karnaugh e simulação visual em tempo real.
 
-- **Tarefa 3 - Fluxo de Projeto – Icarus Verilog e GTKWave: Subtrator Completo**
+- **Tarefa 3 - Fluxo de Projeto com Icarus Verilog e GTKWave: Subtrator Completo**
 
 Foi desenvolvido um circuito digital para a implementação de um subtrator completo, utilizando a 
 linguagem Verilog. O projeto foi simulado no Icarus Verilog e analisado no GTKWave, permitindo 
